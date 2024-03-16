@@ -1,0 +1,22 @@
+a:link, a:visited{ 
+    background-color: rgb(221, 76, 76);
+    color: white;
+    padding: 70px 50px;
+    
+    position: absolute;
+    text-shadow: 20px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+
+}
+
+a:hover, a:active{
+background-color: rgb(202, 88, 88);
+}
+body{
+    background-color: gold;
+}
+button{
+    color: gold;
+}
